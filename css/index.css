@@ -43,7 +43,7 @@ html {
 }
 
 .menu-container a:hover {
-    color: #cca977;
+    color: #fafafa;
 }
 
 .menu-container input {
@@ -190,21 +190,21 @@ a {
 
 
 .Info h1 {
-    color: #daa863;
+    color: #7c7c7c;
     font-family: 'Montserrat', monospace;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800;500&display=swap');
 
 .Info p {
-    color: #cca977;
+    color: #777777;
     font-family: 'JetBrains Mono', monospace;
     font-weight: 700;
 }
 
 .Button {
     background-color: #202020;
-    color: #fff;
+    color: rgb(196, 196, 196);
     font-family: 'JetBrains Mono', monospace;
     font-size: 16px;
     font-weight: 400;
@@ -268,7 +268,7 @@ a {
 }
 
 .Card h5 {
-    color: #fff;
+    color: rgb(206, 206, 206);
     margin: 7px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -277,7 +277,7 @@ a {
     font-size: 14px;
     font-family: 'Montserrat', monospace;
     margin: 7px;
-    color: #c9c9c9;
+    color: #999999;
 }
 
 .Card:hover {
